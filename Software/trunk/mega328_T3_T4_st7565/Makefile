@@ -12,6 +12,8 @@ CPP = avr-g++
 
 CFLAGS = -Wall
 
+LANG = C
+
 # ********************** Änderbare Flags zur Configuration des Transistortesters
 # ********************** config options for your Semiconductor tester
 # Every changing of this Makefile will result in new compiling the whole
